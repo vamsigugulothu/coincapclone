@@ -1,0 +1,14 @@
+
+
+@media screen and (max-width: 480px) {
+  #stats {
+    background-color: lightgreen;
+    display: none;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  #subhead {
+    display: none;
+  }
+}
